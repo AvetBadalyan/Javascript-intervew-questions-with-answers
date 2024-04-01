@@ -3,7 +3,7 @@
 Copyrights to
 (https://github.com/sudheerj/javascript-interview-questions?fbclid=IwAR1_GDqBBOYHQVBJ9XdnddjU1Doq6FnAtBNF4TUGK8HiJRTXL9P5VJcyDEw)
 
- [PDF version](https://github.com/AvetBadalyan/Javascript-intervew-questions-with-answers/blob/main/JS%20interview%20questions.pdf)
+[PDF version](https://github.com/AvetBadalyan/Javascript-intervew-questions-with-answers/blob/main/JS%20interview%20questions.pdf)
 
 1.  ### What are the possible ways to create objects in JavaScript
 
@@ -5558,8 +5558,8 @@ console.log(a, b);
 <p>
 
 ##### Answer: 1
- 1, [2, 3, 4, 5]
-```
+
+1, [2, 3, 4, 5]
 
 </p>
 </details>
