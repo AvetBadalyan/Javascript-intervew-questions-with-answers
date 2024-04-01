@@ -5557,14 +5557,8 @@ console.log(a, b);
 <details><summary><b>Answer</b></summary>
 <p>
 
-##### Answer: 3
-
-When using rest parameters, trailing commas are not allowed and will throw a SyntaxError.
-If you remove the trailing comma then it displays 1st answer
-
-```javascript
-let [a, ...b] = [1, 2, 3, 4, 5];
-console.log(a, b); // 1, [2, 3, 4, 5]
+##### Answer: 1
+ 1, [2, 3, 4, 5]
 ```
 
 </p>
