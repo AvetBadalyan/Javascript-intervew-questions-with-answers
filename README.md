@@ -5925,9 +5925,7 @@ console.log(x, y);
 <details><summary><b>Answer</b></summary>
 <p>
 
-##### Answer: 4
-
-It throws a syntax error because the rest element should not have a trailing comma. You should always consider using a rest operator as the last element.
+##### Answer: 1 : 1, [2, 3, 4]
 
 </p>
 
