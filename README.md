@@ -1,7 +1,7 @@
 # JavaScript Interview Questions & Answers
 
 Copyrights to
-(https://github.com/sudheerj/javascript-interview-questions?fbclid=IwAR1_GDqBBOYHQVBJ9XdnddjU1Doq6FnAtBNF4TUGK8HiJRTXL9P5VJcyDEw)
+(https://github.com/Avetj/javascript-interview-questions?fbclid=IwAR1_GDqBBOYHQVBJ9XdnddjU1Doq6FnAtBNF4TUGK8HiJRTXL9P5VJcyDEw)
 
 1.  ### What are the possible ways to create objects in JavaScript
 
@@ -13,8 +13,8 @@ Copyrights to
 
        ```javascript
        var object = {
-         name: "Sudheer",
-         age: 34,
+         name: "Avet",
+         age: 29,
        };
        ```
 
@@ -77,7 +77,7 @@ Copyrights to
          this.name = name;
          this.age = 21;
        }
-       var object = new Person("Sudheer");
+       var object = new Person("Avet");
        ```
 
     5. **Function constructor with prototype:**
@@ -86,7 +86,7 @@ Copyrights to
 
        ```javascript
        function Person() {}
-       Person.prototype.name = "Sudheer";
+       Person.prototype.name = "Avet";
        var object = new Person();
        ```
 
@@ -134,7 +134,7 @@ Copyrights to
          }
        }
 
-       var object = new Person("Sudheer");
+       var object = new Person("Avet");
        ```
 
     8. **Singleton pattern:**
@@ -143,7 +143,7 @@ Copyrights to
 
        ```javascript
        var object = new (function () {
-         this.name = "Sudheer";
+         this.name = "Avet";
        })();
        ```
 
@@ -3168,7 +3168,7 @@ LocalStorage is the same as SessionStorage but it persists the data even when th
         return "Hello, " + name;
       }
 
-      let user = "Sudheer";
+      let user = "Avet";
 
       console.log(greeting(user));
       ```
@@ -5176,7 +5176,7 @@ LocalStorage is the same as SessionStorage but it persists the data even when th
 
      ```js
      console.group("User Details");
-     console.log("name: Sudheer Jonna");
+     console.log("name: Avet Jonna");
      console.log("job: Software Developer");
 
      // Nested Group
